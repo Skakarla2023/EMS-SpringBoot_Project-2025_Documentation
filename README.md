@@ -26,6 +26,8 @@ Auto-configuration: Spring Boot automatically configures many aspects of your ap
 Starter Dependencies: Pre-packaged sets of dependencies for common functionalities (e.g., spring-boot-starter-web, spring-boot-starter-data-jpa).
 
 
+### Understanding Routers and navigators
+"Users navigate from one page to another, while the router determines which page (or component) to display based on the user's interaction, such as clicking a button or selecting an option."
 
 
 
