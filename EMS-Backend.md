@@ -1,5 +1,24 @@
 # EMS Backend Technologies
 
+## Java17
+
+- Java is a powerful, object-oriented programming language widely used for building the backend (server-side) of web applications.
+- The backend is the part of a website or app that handles data, logic, and communication with the database—things that users don’t see directly.
+- An API acts as an intermediary between the client and the server.
+- It takes client requests, processes them on the server, and sends back the appropriate response.
+- An API, or Application Programming Interface, is essentially a set of rules and protocols that allows different software applications to communicate and exchange data with each other. 
+
+
+## SpringBoot3
+
+## Spring data JPA
+
+## Spring REST API
+
+## Open API Swagger
+
+## MySQL Database
+
 
 
 
