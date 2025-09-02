@@ -72,7 +72,7 @@ function Header() {
 }
 ```
 
-- You can reuse ```<Header /> ```anywhere in your app.
+- You can reuse ```<Header /> ```anywhere in your app. 
 - There are two types:
 
   #### Functional Components (most common now):
